@@ -1,0 +1,32 @@
+Const int con1 = 9;
+Const char con2 = 't';
+Int var1, var2;
+Char var3;
+
+Int jc(int x){
+    Int f;
+    if(x == 1){
+        F = 1;
+    }else{
+        F = jc(x-1) * x;
+    }
+    Return (f);
+}
+
+void main(){
+    Int res, I;
+    Var2 = 0;
+    I = 0;
+    scanf(var1);
+    while(I < var1){
+	var2 = var2 + 2;
+	I = I + 1;
+    }
+    Res = jc(var2);
+    printf(res);   
+}
+
+
+
+
+

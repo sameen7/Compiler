@@ -1,0 +1,26 @@
+Const int con1 = 9;
+Const char con2 = 't';
+Int var1, var2;
+Char var3;
+void main(){
+    Int res;
+    Var2 = 4;
+    scanf(var1, var3);
+    if(var1 == con1){
+	res = var1 + var2;
+        printf(res);
+    }else{
+        printf("aha");
+    }
+    if(var3 > con2){
+    	printf(var3);
+    }else{
+    	res = var1 - con1;
+	printf(res);
+    }
+}
+
+
+
+
+
