@@ -9,4 +9,4 @@ Course design of compiling principles
 
 Check the PDF file for more details.
 
-There are some test procedures in test folder.
+Test data in test folder.
